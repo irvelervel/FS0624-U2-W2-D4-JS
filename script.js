@@ -95,7 +95,7 @@ console.log(secondObject[property]) // 'blue'
 const thirdObject = {
   firstName: 'Mario', // una coppia chiave:valore
   lastName: 'Bros',
-  skills: ['jumping', 'run', 'shoot-fire'],
+  skills: ['jumping', 'running', 'shooting-fire'],
   'years-of-experience': 30,
   area: {
     kingdom: 'Mushroom Kingdom',
